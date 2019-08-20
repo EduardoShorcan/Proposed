@@ -1,0 +1,26 @@
+v1
+Work on feature 1
+Release feature 1
+v2
+Work on feature 2
+Work on feature 3
+Work on feature 4
+Work on feature 5
+Release feature 2 and 4
+v3
+Work on feature 3
+Release feature 3 and 5
+v4
+Work on feature 6 with database changes
+Release feature 6
+v5
+Cleanup database changes
+Work on feature 7 with database changes
+Work on feature 8 with database changes
+Work on feature 9
+Release feature 7 and 9
+v6
+Cleanup database changes
+Release feature 8
+v7
+Cleanup database changes
